@@ -76,17 +76,14 @@ pip install streamlit transformers nltk SpeechRecognition autocorrect
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 ## 🤝 Contributing
 We’d love your contributions! Whether it’s improving existing features or adding new ones, feel free to fork the repository and submit a pull request.
-
 ---
 
 ## 📧 Contact
-For feedback, queries, or collaboration opportunities, feel free to reach out at **your-email@example.com**.
-
+For feedback, queries, or collaboration opportunities, feel free to reach out.
 ---
 
 *"WordWeaver—helping every word find its purpose."*
